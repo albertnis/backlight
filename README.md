@@ -1,5 +1,8 @@
 # Backlight
 
+> [!IMPORTANT]
+> In the years since this repository was updated, I have moved to [WLED](https://kno.wled.ge/) and [ESPHome](https://esphome.io/) for my LED strip needs. This repo remains as an archive.
+
 *Jack-of-all-trades LED strip controller*
 
 This is the first version of my LED strip controller. This code ran from mid 2015 to early 2017 with minimal modification on an Arduino hooked up to a strip of 12V RGB LEDs behind my desk. It reliably provided a nice set of colours to instantly theme my otherwise colour-neutral workspace, and crossfade functionality made it more pleasant than the default controller supplied with the strip.
